@@ -11,8 +11,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Main />} />
-        <Route path="/second-page" element={<SecondPage />} />
+        <Route path="/project-ufo-react" element={<Main />} />
+        <Route path="/project-ufo-react/second-page" element={<SecondPage />} />
       </Routes>
     </Router>
   );
