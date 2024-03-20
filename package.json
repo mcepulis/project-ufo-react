@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mcepulis.github.io/project-spaceman",
+  "homepage": "https://mcepulis.github.io/project-ufo-react",
   "name": "project-ufo-react",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "postdeploy": "echo 'Deployed to GitHub Pages'"
   },
   "eslintConfig": {
     "extends": [
