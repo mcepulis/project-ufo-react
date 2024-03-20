@@ -9,8 +9,8 @@ function SecondMain() {
             <img className={style.line} src={line} alt="line" />
             <p className={style.description}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga cupiditate a alias omnis pariatur tempore necessitatibus suscipit voluptatem modi! Ipsam.</p>
             <div className={style.btnList}>
-                <a className={style.btn} href="/">Go home</a>
-                <a className={`${style.btn} ${style['btn-white']}`} href="/">Back</a>
+                <a className={style.btn} href="/project-ufo-react">Go home</a>
+                <a className={`${style.btn} ${style['btn-white']}`} href="/project-ufo-react">Back</a>
             </div>
         </div>
         <div className={style.columnRight}>
