@@ -9,12 +9,12 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path="/project-ufo-react" element={<Main />} />
-        <Route path="/project-ufo-react/second-page" element={<SecondPage />} />
-      </Routes>
-    </Router>
+    <Router basename="/project-ufo-react">
+    <Routes>
+      <Route path="/" element={<Main />} />
+      <Route path="/second-page" element={<SecondPage />} />
+    </Routes>
+  </Router>
   );
 }
 

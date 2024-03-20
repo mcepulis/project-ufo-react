@@ -7,7 +7,7 @@ function Main() {
             <div className={style.mainLeft}>
                 <h1 className={style.mainH1}>404</h1>
                 <p className={style.mainP}>Page not found</p>
-                <a className={style.mainA} href="/project-ufo-react/second-page">Second Page</a>
+                <a className={style.mainA} href="/second-page">Second Page</a>
             </div>
             <img className={style.mainRight} src={pic} alt="Ufo lekste kuri vagia daiktus" />
         </main>
