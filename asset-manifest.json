@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-ufo-react/static/css/main.b1030d16.css",
-    "main.js": "/project-ufo-react/static/js/main.b1d981b9.js",
+    "main.js": "/project-ufo-react/static/js/main.fe48be46.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/project-ufo-react/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/project-ufo-react/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/project-ufo-react/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -11,10 +11,10 @@
     "static/media/ufo.jpg": "/project-ufo-react/static/media/ufo.c0f5c3c4946f10a339f3.jpg",
     "index.html": "/project-ufo-react/index.html",
     "main.b1030d16.css.map": "/project-ufo-react/static/css/main.b1030d16.css.map",
-    "main.b1d981b9.js.map": "/project-ufo-react/static/js/main.b1d981b9.js.map"
+    "main.fe48be46.js.map": "/project-ufo-react/static/js/main.fe48be46.js.map"
   },
   "entrypoints": [
     "static/css/main.b1030d16.css",
-    "static/js/main.b1d981b9.js"
+    "static/js/main.fe48be46.js"
   ]
 }
